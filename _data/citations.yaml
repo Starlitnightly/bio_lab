@@ -1,60 +1,181 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2023.06.06.543913
+  title: 'OmicVerse: A single pipeline for exploring the entire transcriptome universe'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Zehua Zeng
+  - Yuqing Ma
+  - Lei Hu
+  - Yuanyan Xiong
+  - Hongwu Du
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2023-06-08'
+  link: https://doi.org/gsnkg5
+  orcid: 0000-0002-2109-0418
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1101/2023.05.10.540147
+  title: Chromatin and Gene Regulatory Dynamics of Optic Nerve Invasion in Retinoblastoma
+    at Single-Cell Resolution
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Yihan Zhao
+  - Peng Liu
+  - Lei Hu
+  - Mingxi Ke
+  - Nan Min
+  - Zehua Zeng
+  - Hongwu Du
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-12'
+  link: https://doi.org/gsnkg7
+  orcid: 0000-0002-2109-0418
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adfm.202207466
+  title: "Multifunctional DNA Hydrogel Enhances Stemness of Adipose\u2010Derived Stem\
+    \ Cells to Activate Immune Pathways for Guidance Burn Wound Regeneration"
+  authors:
+  - Liping Zhou
+  - Zehua Zeng
+  - Songyang Liu
+  - Tiantian Min
+  - Wenmin Zhang
+  - Xiaochun Bian
+  - Hongwu Du
+  - Peixun Zhang
+  - Yongqiang Wen
+  publisher: Advanced Functional Materials
+  date: '2022-09-04'
+  link: https://doi.org/gsnkhj
+  orcid: 0000-0002-2109-0418
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fcell.2022.1047363
+  title: Regulatory factor identification for nodal genes in zebrafish by causal inference
+  authors:
+  - Cencan Xing
+  - Zehua Zeng
+  - Yaqi Li
+  - Bo Gong
+  - Weimin Shen
+  - Roshan Shah
+  - Lu Yan
+  - Hongwu Du
+  - Anming Meng
+  publisher: Frontiers in Cell and Developmental Biology
+  date: '2022-10-20'
+  link: https://doi.org/gsnkhk
+  orcid: 0000-0002-2109-0418
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.09.28.510020
+  title: Identify the origin and end cells and infer the trajectory of cellular fate
+    automatically
+  authors:
+  - Zehua Zeng
+  - Cencan Xing
+  - Lei Hu
+  - Shah Roshan
+  - Yuanyan Xiong
+  - Hongwu Du
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-09-30'
+  link: https://doi.org/gsnkg9
+  orcid: 0000-0002-2109-0418
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biopha.2021.112343
+  title: Composition of intestinal flora affects the risk relationship between Alzheimer's
+    disease/Parkinson's disease and cancer
+  authors:
+  - Zhongci Hang
+  - Tong Lei
+  - Zehua Zeng
+  - Shanglin Cai
+  - Wangyu Bi
+  - Hongwu Du
+  publisher: Biomedicine &amp; Pharmacotherapy
+  date: '2022-01-01'
+  link: https://doi.org/gqg355
+  orcid: 0000-0002-2109-0418
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcyt.2021.07.018
+  title: Stem cells from human exfoliated deciduous teeth affect mitochondria and
+    reverse cognitive decline in a senescence-accelerated mouse prone 8 model
+  authors:
+  - Wenhuan Guo
+  - Zehua Zeng
+  - Cencan Xing
+  - Jinghui Zhang
+  - Wangyu Bi
+  - Jingjie Yang
+  - Roshan Shah
+  - Donghui Wang
+  - Yingxian Li
+  - Xiaoshuang Zhang
+  - Yongzhong Bian
+  - Hongwu Du
+  publisher: Cytotherapy
+  date: '2022-01-01'
+  link: https://doi.org/gp3mc7
+  orcid: 0000-0002-2109-0418
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-020-75586-5
+  title: 'ERgene: Python library for screening endogenous reference genes'
+  authors:
+  - Zehua Zeng
+  - Yuzhe Xiong
+  - Wenhuan Guo
+  - Hongwu Du
+  publisher: Scientific Reports
+  date: '2020-10-29'
+  link: https://doi.org/gjtxhr
+  orcid: 0000-0002-2109-0418
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbrc.2020.05.217
+  title: Establishment and validation of a drug-target microarray for SARS-CoV-2
+  authors:
+  - Peng Chen
+  - Zehua Zeng
+  - Hongwu Du
+  publisher: Biochemical and Biophysical Research Communications
+  date: '2020-09-01'
+  link: https://doi.org/gg5xww
+  orcid: 0000-0002-2109-0418
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijbiomac.2020.06.061
+  title: High-throughput screening suggests glutathione synthetase as an anti-tumor
+    target of polydatin using human proteome chip
+  authors:
+  - Peng Chen
+  - Lei Wang
+  - Shutao Sun
+  - Qingbing Zhou
+  - Zehua Zeng
+  - Mingliang Hu
+  - Muhammad Hussain
+  - Cheng Lu
+  - Hongwu Du
+  publisher: International Journal of Biological Macromolecules
+  date: '2020-10-01'
+  link: https://doi.org/gsnkhd
+  orcid: 0000-0002-2109-0418
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.02.26.961938
+  title: Predictions for the binding domain and potential new drug targets of 2019-nCoV
+  authors:
+  - Zehua Zeng
+  - Zhi Luo
+  - Hongwu Du
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-03-02'
+  link: https://doi.org/gkwdf2
+  orcid: 0000-0002-2109-0418
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -70,9 +191,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -89,21 +207,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
