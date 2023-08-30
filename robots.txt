@@ -1,1 +1,1 @@
-Sitemap: /112lab/sitemap.xml
+Sitemap: /bio_lab/sitemap.xml
